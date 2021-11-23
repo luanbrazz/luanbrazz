@@ -1,6 +1,5 @@
 ### Olá! Eu sou o Luan Braz 👋
 
-- 🔭 Ainda não trabalho como programador, porem estudando muito para conquistar minha primeira vaga!
 - 🐍 Estudando Python/Django
 
 <div align="center">
