@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/luanbraz/"><i>Luan Braz</i></a> 😃️</h1>
+  <h1 align="center">Olá, Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/luanbraz/"><i>Luan Braz</i></a> 😃️</h1>
   <p align="center">Estudo Desenvolvimento de Software na <a href="https://academia.kaspper.com/"><i>Academia Kaspper</i></a>
 <!-- <h1 align="center"> 
   Academia Kaspper
