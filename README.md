@@ -1,6 +1,6 @@
 <div>
-  <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/luanbraz/"><i>Luan Braz</i></a> 😃️</h1>
-  <p align="center">I'm a Frontend Angular Developer at <a href="https://www.kaspper.com/"><i>Kaspper - Technology and Innovation</i></a>.</p>
+  <h1 align="center">Hey there, I'm <a href="https://www.linkedin.com/in/luanbraz/"><i>Luan Braz</i></a> 😃️</h1>
+  <p align="center">I'm a Fullstack Java/Angular Developer. </p>
 
   <div align="center">
     <a href="https://github.com/luanbrazz">
@@ -33,4 +33,3 @@
   ![Snake animation](https://github.com/luanbrazz/luanbrazz/blob/output/github-contribution-grid-snake.svg)
     
 </div>
-
